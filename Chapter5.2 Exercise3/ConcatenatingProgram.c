@@ -18,5 +18,5 @@ int main(void)
 	
 	} while (strcmp(str, "quit") || strlen(bigstr)+strlen(str) < 1000);
 
-	return 0;
+	return 0;   ugtu
 }
