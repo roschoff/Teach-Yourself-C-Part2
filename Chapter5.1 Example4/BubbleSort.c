@@ -25,6 +25,7 @@ int main(void)
 			}
 		}
 	}
+	printf("\n");
 	for (a = 0; a < count; a++) {
 		printf("%d ", item[a]);
 	}
