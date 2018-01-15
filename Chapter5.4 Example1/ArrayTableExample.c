@@ -9,7 +9,7 @@ int main(void)
 		4, 8,
 		5, 15
 	};
-	int server, i=0;
+	int server, i;
 
 	printf("Enter the server number: ");
 	scanf("%d", &server);
