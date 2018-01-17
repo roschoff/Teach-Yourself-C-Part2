@@ -1,3 +1,4 @@
+/*The program is not working*/
 #include <stdio.h>
 
 int main(void)
@@ -12,12 +13,14 @@ int main(void)
 	}
 	for (count = 1; count < 11; count++) {
 		for (arr[count - 1]; count < 11; arr[count + 1]) {
-
-		}
-
-		if (arr[count - 1] == arr[count]) {
+			if (arr[count - 1] == arr[count]) {
 			printf("Matching numbers! ");
+			}
 		}
+
+		/*if (arr[count - 1] == arr[count]) {
+			printf("Matching numbers! ");
+		}*/
 	}
 
 	return 0;
