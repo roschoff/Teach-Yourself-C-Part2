@@ -5,7 +5,7 @@ int main(void)
 	int list[20];
 	int i, j, match, num, common, mostCommon = 0;
 
-	printf("Enter 10 numbers: ");
+	printf("Enter 10 numbers:\n");
 
 	for (i = 0; i < 20; i++) {
 		scanf("%d", &list[i]);
