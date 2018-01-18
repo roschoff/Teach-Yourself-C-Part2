@@ -123,6 +123,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter5.5 Z Knowledge test
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter5.5 Z Knowledge test5", "Chapter5.5 Z Knowledge test5\Chapter5.5 Z Knowledge test5.vcxproj", "{D1A6B44D-8A35-4839-B630-29E1BDD4605E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter5.5 Z Knowledge test6", "Chapter5.5 Z Knowledge test6\Chapter5.5 Z Knowledge test6.vcxproj", "{8A52A349-6C28-45E3-92F3-82DA6135F2C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -611,6 +613,14 @@ Global
 		{D1A6B44D-8A35-4839-B630-29E1BDD4605E}.Release|x64.Build.0 = Release|x64
 		{D1A6B44D-8A35-4839-B630-29E1BDD4605E}.Release|x86.ActiveCfg = Release|Win32
 		{D1A6B44D-8A35-4839-B630-29E1BDD4605E}.Release|x86.Build.0 = Release|Win32
+		{8A52A349-6C28-45E3-92F3-82DA6135F2C0}.Debug|x64.ActiveCfg = Debug|x64
+		{8A52A349-6C28-45E3-92F3-82DA6135F2C0}.Debug|x64.Build.0 = Debug|x64
+		{8A52A349-6C28-45E3-92F3-82DA6135F2C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A52A349-6C28-45E3-92F3-82DA6135F2C0}.Debug|x86.Build.0 = Debug|Win32
+		{8A52A349-6C28-45E3-92F3-82DA6135F2C0}.Release|x64.ActiveCfg = Release|x64
+		{8A52A349-6C28-45E3-92F3-82DA6135F2C0}.Release|x64.Build.0 = Release|x64
+		{8A52A349-6C28-45E3-92F3-82DA6135F2C0}.Release|x86.ActiveCfg = Release|Win32
+		{8A52A349-6C28-45E3-92F3-82DA6135F2C0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
