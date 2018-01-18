@@ -125,6 +125,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter5.5 Z Knowledge test
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter5.5 Z Knowledge test6", "Chapter5.5 Z Knowledge test6\Chapter5.5 Z Knowledge test6.vcxproj", "{8A52A349-6C28-45E3-92F3-82DA6135F2C0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter5.5 Z Knowledge test6 Book version", "Chapter5.5 Z Knowledge test6 Book version\Chapter5.5 Z Knowledge test6 Book version.vcxproj", "{21C9C0BB-CAC0-4771-8AAB-84501DD79EBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -621,6 +623,14 @@ Global
 		{8A52A349-6C28-45E3-92F3-82DA6135F2C0}.Release|x64.Build.0 = Release|x64
 		{8A52A349-6C28-45E3-92F3-82DA6135F2C0}.Release|x86.ActiveCfg = Release|Win32
 		{8A52A349-6C28-45E3-92F3-82DA6135F2C0}.Release|x86.Build.0 = Release|Win32
+		{21C9C0BB-CAC0-4771-8AAB-84501DD79EBB}.Debug|x64.ActiveCfg = Debug|x64
+		{21C9C0BB-CAC0-4771-8AAB-84501DD79EBB}.Debug|x64.Build.0 = Debug|x64
+		{21C9C0BB-CAC0-4771-8AAB-84501DD79EBB}.Debug|x86.ActiveCfg = Debug|Win32
+		{21C9C0BB-CAC0-4771-8AAB-84501DD79EBB}.Debug|x86.Build.0 = Debug|Win32
+		{21C9C0BB-CAC0-4771-8AAB-84501DD79EBB}.Release|x64.ActiveCfg = Release|x64
+		{21C9C0BB-CAC0-4771-8AAB-84501DD79EBB}.Release|x64.Build.0 = Release|x64
+		{21C9C0BB-CAC0-4771-8AAB-84501DD79EBB}.Release|x86.ActiveCfg = Release|Win32
+		{21C9C0BB-CAC0-4771-8AAB-84501DD79EBB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
