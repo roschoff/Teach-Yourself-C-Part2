@@ -16,7 +16,6 @@ int main(void)
 			for (i; i > 0; i--) {
 				strcat(newInput, ".");
 			}
-
 			strcat(input, newInput);
 			printf("%s\n", input);
 		}
